@@ -1,12 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bmitlLjS)
-# ここにゲームのタイトルを記述する
+# Kiles Coin Capture
 
 ## ゲームの内容
-ここにゲームの内容説明を記述する
+ロボットのカイルが落ちた小銭を拾い集めるゲーム、ただし表面にどくろの描かれたデス小銭に触れるとゲームオーバー、30秒以内にコインを拾ってスコアを高めよう１
 
 ![画面イメージ](docs/images/game_image01.png)
 
 ## 操作説明
-例
-- 矢印キー、若しくはAとDキーで左右に砲台を移動する
-- スペースキーを押すとビームを敵に向けて発射する
+
+- 左右矢印キーで移動。
