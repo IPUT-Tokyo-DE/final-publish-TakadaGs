@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bmitlLjS)
 # Kiles Coin Capture
-
+https://iput-tokyo-de.github.io/final-publish-TakadaGs/
 ## ゲームの内容
 ロボットのカイルが落ちた小銭を拾い集めるゲーム、ただし表面にどくろの描かれたデス小銭に触れるとゲームオーバー、30秒以内にコインを拾って画面上のスコアを高めよう
 
